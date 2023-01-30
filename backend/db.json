@@ -2,21 +2,27 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que vc veio",
+      "conteudo": "eh mermu eh",
       "autoria": "Dev",
       "modelo": "modelo1"
     },
     {
       "id": 3,
-      "conteudo": "Angular é o melhor",
+      "conteudo": "Angular é o menos pior",
       "autoria": "Dev",
       "modelo": "modelo3"
     },
     {
-      "conteudo": "colinas do cansaco",
+      "conteudo": "colinas do cansaço",
       "autoria": "dodoi",
       "modelo": "modelo3",
       "id": 4
+    },
+    {
+      "conteudo": "oloco bicho",
+      "autoria": "oloco",
+      "modelo": "modelo1",
+      "id": 5
     }
   ]
 }
