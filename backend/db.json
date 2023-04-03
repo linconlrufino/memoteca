@@ -1,102 +1,60 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "eh mermu eh",
-      "autoria": "asd",
-      "modelo": "modelo1",
-      "favorito": true
-    },
-    {
-      "id": 3,
-      "conteudo": "Angular do mau",
-      "autoria": "Dev",
-      "modelo": "modelo3",
-      "favorito": false
-    },
-    {
-      "conteudo": "colinas do cansaço",
-      "autoria": "dodoi",
-      "modelo": "modelo3",
-      "id": 4,
-      "favorito": true
-    },
-    {
-      "conteudo": "oloco bicho",
-      "autoria": "oloco",
-      "modelo": "modelo1",
-      "id": 5,
-      "favorito": false
-    },
-    {
-      "conteudo": "Formulario reativo",
-      "autoria": "Angular",
-      "modelo": "modelo1",
-      "id": 6,
-      "favorito": false
-    },
-    {
-      "conteudo": "AEO",
-      "autoria": "EUU",
+      "conteudo": "Aprender css",
+      "autoria": "eu ",
       "modelo": "modelo2",
-      "id": 7,
-      "favorito": false
+      "favorito": true,
+      "id": 1
     },
     {
-      "conteudo": "AEYUUHO",
-      "autoria": "EUU",
-      "modelo": "modelo3",
-      "id": 8,
-      "favorito": false
-    },
-    {
-      "conteudo": "asdasdasd",
-      "autoria": "asdasdasd",
-      "modelo": "modelo1",
-      "id": 9,
-      "favorito": false
-    },
-    {
-      "conteudo": "dfgdfgdfg",
-      "autoria": "dfgdfg",
-      "modelo": "modelo1",
-      "id": 10,
-      "favorito": false
-    },
-    {
-      "conteudo": " java javoso",
+      "id": 2,
+      "conteudo": "teste1",
       "autoria": "dev",
       "modelo": "modelo1",
-      "id": 11,
-      "favorito": false
-    },
-    {
-      "conteudo": "python snake",
-      "autoria": "dev",
-      "modelo": "modelo1",
-      "id": 12,
       "favorito": true
     },
     {
-      "conteudo": "jython brabo",
+      "conteudo": "tst3",
       "autoria": "dev",
-      "modelo": "modelo1",
-      "id": 13,
-      "favorito": true
-    },
-    {
-      "conteudo": "brython",
-      "autoria": "dev random",
-      "modelo": "modelo1",
-      "favorito": true,
-      "id": 14
-    },
-    {
-      "conteudo": "comprar um marea turbo 4x4",
-      "autoria": "random",
       "modelo": "modelo3",
+      "favorito": false,
+      "id": 3
+    },
+    {
+      "conteudo": "tst4",
+      "autoria": "dev",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "conteudo": "tst5",
+      "autoria": "dev",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "tst6",
+      "autoria": "dev",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "tst7",
+      "autoria": "dev",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "tst8",
+      "autoria": "dev",
+      "modelo": "modelo2",
       "favorito": true,
-      "id": 15
+      "id": 8
     }
   ]
 }
